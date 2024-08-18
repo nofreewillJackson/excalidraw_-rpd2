@@ -97,15 +97,15 @@ export const ExportToExcalidrawPlus: React.FC<{
           }}
         />
       </div>
-      <h2>Excalidraw+</h2>
+      <h2>yomama</h2>
       <div className="Card-details">
-        {t("exportDialog.excalidrawplus_description")}
+        {t("")}
       </div>
       <ToolButton
         className="Card-button"
         type="button"
-        title={t("exportDialog.excalidrawplus_button")}
-        aria-label={t("exportDialog.excalidrawplus_button")}
+        title={t("")}
+        aria-label={t("")}
         showAriaLabel={true}
         onClick={async () => {
           try {
